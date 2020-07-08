@@ -5,6 +5,7 @@ date: 2020-06-04
 title: Vegan Parmesan
 author: Jamal Habash
 tags: [vegan, topping]
+description: "Vegan parmesan, the perfect topping for pasta, pizza and more."
 
 ---
 # Vegan Parmesan[^1]
