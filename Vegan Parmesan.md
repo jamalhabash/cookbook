@@ -18,4 +18,5 @@ tags: [vegan, topping]
 ## Directions
 1) Add all ingredients to a food processor and pulse until a fine. Store in the fridge to keep fresh.
 
+---
 [^1]: https://minimalistbaker.com/how-to-make-vegan-parmesan-cheese/
