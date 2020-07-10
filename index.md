@@ -1,2 +1,5 @@
+---
+layout: home
+---
 # Index
-- [Vegan Parmesan](Vegan&#32;Parmesan.md)
+- [Vegan Parmesan](_recipies/Vegan-Parmesan.md)
