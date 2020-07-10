@@ -1,2 +1,2 @@
 # Index
-- [Vegan Parmesan](Vegan&#32;Parmesan.md)
+- [Vegan Parmesan](Vegan-Parmesan)
