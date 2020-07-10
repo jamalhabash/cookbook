@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 
 collections:
-  recipies:
+  recipes:
     output: true
     permalink: /:name
 
