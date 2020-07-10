@@ -37,7 +37,7 @@
       <H1>Index</H1>
       <ul>
         {% for recipe in site.recipes %}
-          <li>  <a href="{{ recipe.url }}">{{ recipe.title }}</a> </li>
+          <li>  <a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a> </li>
         {% endfor %}
       </ul>
 
