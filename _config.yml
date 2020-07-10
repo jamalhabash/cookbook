@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 collections:
   recipes:
     output: true
-    permalink: /:name
+    permalink: /cookbook/:name
 
 plugins:
   - jekyll-relative-links
