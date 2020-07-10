@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
+
+collections:
+  recipies:
+    output: true
+    permalink: /:name
+
 plugins:
   - jekyll-relative-links

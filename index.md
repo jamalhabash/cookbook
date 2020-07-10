@@ -1,2 +1,3 @@
-# Index
-- [Vegan Parmesan](Vegan-Parmesan)
+---
+layout: home
+---
