@@ -17,7 +17,7 @@ description: "Vegan parmesan, the perfect topping for pasta, pizza and more."
 - Garlic Powder (1/4 Tsp)
 
 ## Directions
-1) Add all ingredients to a food processor and pulse until a fine. Store in the fridge to keep fresh.
+1) Add all ingredients to a food processor and pulse until fine. Store in the fridge to keep fresh.
 
 ---
 [^1]: https://minimalistbaker.com/how-to-make-vegan-parmesan-cheese/
