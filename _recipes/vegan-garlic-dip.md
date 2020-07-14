@@ -60,9 +60,9 @@ description: An amazing vegan creamy garlic dip. Just like Pizza Pizza.
 image: "/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg"
 
 ---
-# Vegan Garlic Dip[^1]
+# Vegan Garlic Dip[^1](https://thevietvegan.com/vegan-creamy-garlic-dip-pizza/)
 
-![headerImage](/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg)
+![headerImage](https://media.githubusercontent.com/media/jhabash/cookbook/master/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg)
 
 ## Ingredients
 
@@ -78,5 +78,4 @@ image: "/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg"
 1. Combine the pressed garlic, butter, thyme, and basil in a bowl and microwave until the butter is melted and bubbling (about 30-45 seconds). This kind of cooks the garlic a bit and sort of re-hydrates the dried herbs.
 2. Remove from microwave and stir in mayo until smooth and incorporated. Add a pinch of salt if you like it saltier, but I didn't find I needed it.
 
----
-[^1]: https://thevietvegan.com/vegan-creamy-garlic-dip-pizza/
+***
