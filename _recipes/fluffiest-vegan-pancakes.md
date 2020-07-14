@@ -33,11 +33,6 @@ schemadotorg:
     name: In a medium bowl, add the flour, sugar, baking powder, and salt, and stir
       to combine.
   - "@type": HowToStep
-    text: In a medium bowl or liquid measuring cup, add almond milk, apple cider vinegar,
-      and vanilla, and stir to combine
-    name: In a medium bowl or liquid measuring cup, add almond milk, apple cider vinegar,
-      and vanilla, and stir to combine
-  - "@type": HowToStep
     text: Pour the liquid mixture into the dry mixture and whisk until smooth.
     name: Pour the liquid mixture into the dry mixture and whisk until smooth.
   - "@type": HowToStep
@@ -75,3 +70,26 @@ image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/f
 published: false
 
 ---
+# Fluffiest Vegan Pancakes[^1](https://thevietvegan.com/vegan-creamy-garlic-dip-pizza/)
+
+![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/fluffiest-vegan-pancakes.jpg)
+
+## Ingredients
+
+* 1 Cup Flour
+* 1 Tbsp Baking Powder
+* 2 Tbsp Sugar
+* 1/2 Tsp Salt
+* 1 Cup Non-Dairy Milk
+* 1 Tbsp Apple Cider Vinegar
+* 1 Tsp Vanilla
+
+## Directions
+
+1. In a medium bowl, add the flour, sugar, baking powder, and salt, and stir to combine.
+2. Pour the liquid mixture into the dry mixture and whisk until smooth.
+3. Let batter rest for 5 minutes.
+4. Pour about ½ cup (65 grams) of batter onto a nonstick pan or griddle over medium heat.
+5. When the top begins to bubble, flip the pancake and cook until golden.
+
+***
