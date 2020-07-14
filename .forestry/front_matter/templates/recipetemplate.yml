@@ -5,6 +5,7 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: default
 - type: datetime
   name: date
   label: date
@@ -14,6 +15,7 @@ fields:
 - type: text
   name: author
   label: author
+  default: Jamal Habash
 - type: list
   name: tags
   label: tags
@@ -23,6 +25,7 @@ fields:
 - type: file
   name: image
   label: image
+  description: Should be the same as the image for Schemadotorg
 - type: field_group
   name: schemadotorg
   label: schemadotorg
@@ -30,9 +33,11 @@ fields:
   - type: text
     name: "@context"
     label: "@context"
+    default: http://schema.org./
   - type: text
     name: "@type"
     label: "@type"
+    default: Recipe
   - type: text
     name: name
     label: name
@@ -43,15 +48,19 @@ fields:
     - type: text
       name: "@type"
       label: "@type"
+      default: Person
     - type: text
       name: name
       label: name
+      default: Jamal Habash
   - type: text
     name: description
     label: description
+    description: Same as the previous description
   - type: datetime
     name: datePublished
     label: datePublished
+    default: now
   - type: image_gallery
     name: image
     label: image
@@ -74,6 +83,7 @@ fields:
     - type: text
       name: "@type"
       label: "@type"
+      default: HowToStep
     - type: text
       name: text
       label: text
@@ -87,6 +97,7 @@ fields:
     - type: text
       name: "@type"
       label: "@type"
+      default: AggregateRating
     - type: number
       name: ratingValue
       label: ratingValue
