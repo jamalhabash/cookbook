@@ -6,6 +6,7 @@ title: Vegan Parmesan
 author: Jamal Habash
 tags: [vegan, topping]
 description: "Vegan parmesan, the perfect topping for pasta, pizza and more."
+image: "https://minimalistbaker.com/wp-content/uploads/2014/10/Parm-cheese-SQUARE.jpg"
 
 schemadotorg:
   "@context": http://schema.org/
