@@ -79,4 +79,4 @@ image: "/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg"
 2. Remove from microwave and stir in mayo until smooth and incorporated. Add a pinch of salt if you like it saltier, but I didn't find I needed it.
 
 ---
-[^1] https://thevietvegan.com/vegan-creamy-garlic-dip-pizza/
+[^1]: https://thevietvegan.com/vegan-creamy-garlic-dip-pizza/
