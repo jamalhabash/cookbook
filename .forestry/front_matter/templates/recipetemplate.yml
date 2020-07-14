@@ -42,6 +42,7 @@ fields:
   - type: text
     name: name
     label: name
+    description: title of recipe
   - type: field_group
     name: author
     label: author
