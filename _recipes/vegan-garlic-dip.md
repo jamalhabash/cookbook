@@ -61,19 +61,22 @@ image: "/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg"
 published: false
 
 ---
-# Vegan Garlic Dip[^1](https://minimalistbaker.com/how-to-make-vegan-parmesan-cheese/)
+# Vegan Garlic Dip[^1](https://thevietvegan.com/vegan-creamy-garlic-dip-pizza/)
 
 ![headerImage](/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg)
 
 ## Ingredients
 
-* Raw Cashews (3/4 Cup)
-* Nutritional Yeast (3 Tbsp)
-* Salt (3/4 Tsp)
-* Garlic Powder (1/4 Tsp)
+* 2 Garlic Cloves
+* 2 Tbsp Vegan Butter
+* 2 Tbsp Vegan Mayo
+* 1/4 Tsp Dried Basil
+* 1/4 Tsp Dried Thyme
+* Pinch of Salt
 
 ## Directions
 
-1. Add all ingredients to a food processor and pulse until fine. Store in the fridge to keep fresh.
+1. Combine the pressed garlic, butter, thyme, and basil in a bowl and microwave until the butter is melted and bubbling (about 30-45 seconds). This kind of cooks the garlic a bit and sort of re-hydrates the dried herbs.
+2. Remove from microwave and stir in mayo until smooth and incorporated. Add a pinch of salt if you like it saltier, but I didn't find I needed it.
 
 ***
