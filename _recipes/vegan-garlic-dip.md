@@ -62,7 +62,7 @@ image: "/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg"
 ---
 # Vegan Garlic Dip[^1](https://thevietvegan.com/vegan-creamy-garlic-dip-pizza/)
 
-![headerImage](https://media.githubusercontent.com/media/jhabash/cookbook/master/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg)
+![headerImage](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg)
 
 ## Ingredients
 
