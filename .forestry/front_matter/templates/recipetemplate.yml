@@ -1,0 +1,107 @@
+---
+label: RecipeTemplate
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: field_group
+  name: schemadotorg
+  label: schemadotorg
+  fields:
+  - type: text
+    name: "@context"
+    label: "@context"
+  - type: text
+    name: "@type"
+    label: "@type"
+  - type: text
+    name: name
+    label: name
+  - type: field_group
+    name: author
+    label: author
+    fields:
+    - type: text
+      name: "@type"
+      label: "@type"
+    - type: text
+      name: name
+      label: name
+  - type: text
+    name: description
+    label: description
+  - type: datetime
+    name: datePublished
+    label: datePublished
+  - type: image_gallery
+    name: image
+    label: image
+  - type: list
+    name: recipeYield
+    label: recipeYield
+  - type: text
+    name: prepTime
+    label: prepTime
+  - type: text
+    name: totalTime
+    label: totalTime
+  - type: list
+    name: recipeIngredient
+    label: recipeIngredient
+  - type: field_group_list
+    name: recipeInstructions
+    label: recipeInstructions
+    fields:
+    - type: text
+      name: "@type"
+      label: "@type"
+    - type: text
+      name: text
+      label: text
+    - type: text
+      name: name
+      label: name
+  - type: field_group_list
+    name: aggregateRating
+    label: aggregateRating
+    fields:
+    - type: text
+      name: "@type"
+      label: "@type"
+    - type: number
+      name: ratingValue
+      label: ratingValue
+    - type: number
+      name: ratingCount
+      label: ratingCount
+  - type: list
+    name: recipeCategory
+    label: recipeCategory
+  - type: list
+    name: recipeCuisine
+    label: recipeCuisine
+  - type: text
+    name: keywords
+    label: keywords
+  - type: text
+    name: "@id"
+    label: "@id"
