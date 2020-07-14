@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2020-07-14 16:58:26 +0000
+date: 2020-07-14T16:58:26.000+00:00
 author: Jamal Habash
 schemadotorg:
   "@context": http://schema.org/
@@ -8,27 +8,22 @@ schemadotorg:
   author:
     "@type": Person
     name: Jamal Habash
-  datePublished: 2020-07-14 16:58:26 +0000
+  datePublished: 2020-07-14T16:58:26.000+00:00
   name: Vegan Garlic Dip
   description: An amazing vegan creamy garlic dip. Just like Pizza Pizza.
   image:
-  - "https://media.githubusercontent.com/media/jhabash/cookbook/master/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg"
+  - https://media.githubusercontent.com/media/jhabash/cookbook/master/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg
   recipeYield: []
   prepTime: PT5M
   totalTime: PT5M
   recipeIngredient:
+  - 2 Garlic Cloves
+  - 1 tbsp vegan butter
+  - 2 tbsp vegan mayo
   - 1/4 tsp dried basil
   - 1/4 tsp dried thyme
   - Pinch of salt
-  - 2 tbsp vegan mayo
-  - 1 tbsp vegan butter
-  - 2 Garlic Cloves
   recipeInstructions:
-  - "@type": HowToStep
-    text: Remove from microwave and stir in mayo until smooth and incorporated. Add
-      a pinch of salt if you like it saltier, but I didn't find I needed it.
-    name: Remove from microwave and stir in mayo until smooth and incorporated. Add
-      a pinch of salt if you like it saltier, but I didn't find I needed it.
   - "@type": HowToStep
     text: Combine the pressed garlic, butter, thyme, and basil in a bowl and microwave
       until the butter is melted and bubbling (about 30-45 seconds). This kind of
@@ -36,6 +31,11 @@ schemadotorg:
     name: Combine the pressed garlic, butter, thyme, and basil in a bowl and microwave
       until the butter is melted and bubbling (about 30-45 seconds). This kind of
       cooks the garlic a bit and sort of re-hydrates the dried herbs.
+  - "@type": HowToStep
+    text: Remove from microwave and stir in mayo until smooth and incorporated. Add
+      a pinch of salt if you like it saltier, but I didn't find I needed it.
+    name: Remove from microwave and stir in mayo until smooth and incorporated. Add
+      a pinch of salt if you like it saltier, but I didn't find I needed it.
   aggregateRating:
   - "@type": AggregateRating
     ratingValue: 5
@@ -57,7 +57,7 @@ tags:
 - Vegan
 - Pizza
 description: An amazing vegan creamy garlic dip. Just like Pizza Pizza.
-image: "https://media.githubusercontent.com/media/jhabash/cookbook/master/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg"
+image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg
 
 ---
 # Vegan Garlic Dip[^1]
