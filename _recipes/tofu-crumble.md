@@ -73,7 +73,6 @@ tags:
 - Vegan
 description: An amazing addition to any meal. Perfect for Bolognese and Pizza!
 image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/tofu-bolognese-9.jpg
-published: false
 
 ---
 # Tofu Crumble[^1]
