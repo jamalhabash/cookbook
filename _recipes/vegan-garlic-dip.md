@@ -58,7 +58,6 @@ tags:
 - Pizza
 description: An amazing vegan creamy garlic dip. Just like Pizza Pizza.
 image: "/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg"
-published: false
 
 ---
 # Vegan Garlic Dip[^1](https://thevietvegan.com/vegan-creamy-garlic-dip-pizza/)
