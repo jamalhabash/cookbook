@@ -13,7 +13,7 @@ sections:
   create: all
   match: "**/*"
 upload_dir: media
-public_path: https://media.githubusercontent.com/media/jhabash/cookbook/master
+public_path: https://media.githubusercontent.com/media/jhabash/cookbook/master/media
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
