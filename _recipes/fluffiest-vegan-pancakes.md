@@ -14,11 +14,22 @@ schemadotorg:
     and more!
   image:
   - https://media.githubusercontent.com/media/jhabash/cookbook/master/media/fluffiest-vegan-pancakes.jpg
-  recipeYield: []
-  prepTime: ''
-  totalTime: ''
-  recipeIngredient: []
-  recipeInstructions: []
+  recipeYield:
+  - 4 Servings
+  prepTime: PT15M
+  totalTime: PT15M
+  recipeIngredient:
+  - 1 Tsp Vanilla
+  - 1 Tbsp Apple Cider Vinegar
+  - 1 Cup Non-Dairy Milk
+  - 1/2 Tsp Salt
+  - 1 Tbsp Baking Powder
+  - 2 Tbsp Sugar
+  - 1 Cup Flour
+  recipeInstructions:
+  - "@type": HowToStep
+    text: ''
+    name: ''
   aggregateRating: []
   recipeCategory: []
   recipeCuisine: []
