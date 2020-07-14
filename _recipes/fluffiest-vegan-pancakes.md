@@ -67,7 +67,6 @@ tags:
 description: The Fluffiest Vegan Pancakes. Use for pancakes, waffles, frying batter
   and more!
 image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/fluffiest-vegan-pancakes.jpg
-published: false
 
 ---
 # Fluffiest Vegan Pancakes[^1]
