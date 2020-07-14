@@ -10,7 +10,7 @@ schemadotorg:
     name: Jamal Habash
   datePublished: 2020-07-14 20:08:54 +0000
   name: Tofu Crumble
-  description: An amazing addition to any meal. Perfect for Bolognese and Pizza!
+  description: An amazing addition to any meal. Perfect for Spicy Pizza or Pasta Sauce!
   image:
   - https://media.githubusercontent.com/media/jhabash/cookbook/master/media/tofu-bolognese-9.jpg
   recipeYield:
@@ -71,7 +71,7 @@ tags:
 - Quick Meals
 - Tofu
 - Vegan
-description: An amazing addition to any meal. Perfect for Bolognese and Pizza!
+description: An amazing addition to any meal. Perfect for Spicy Pizza or Pasta Sauce!
 image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/tofu-bolognese-9.jpg
 
 ---
