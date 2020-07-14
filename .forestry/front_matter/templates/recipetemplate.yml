@@ -120,3 +120,5 @@ fields:
     name: "@id"
     label: "@id"
     description: Link to this webpage.
+pages:
+- _recipes/vegan-garlic-dip.md
