@@ -70,9 +70,9 @@ image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/f
 published: false
 
 ---
-# Fluffiest Vegan Pancakes[^1](https://thevietvegan.com/vegan-creamy-garlic-dip-pizza/)
+# Fluffiest Vegan Pancakes[^1]
 
-![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/fluffiest-vegan-pancakes.jpg)
+![headerImage](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/fluffiest-vegan-pancakes.jpg)
 
 ## Ingredients
 
@@ -93,3 +93,4 @@ published: false
 5. When the top begins to bubble, flip the pancake and cook until golden.
 
 ***
+[^1]: https://thevietvegan.com/vegan-creamy-garlic-dip-pizza/
