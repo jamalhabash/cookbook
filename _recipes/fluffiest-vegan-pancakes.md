@@ -92,5 +92,5 @@ published: false
 4. Pour about ½ cup (65 grams) of batter onto a nonstick pan or griddle over medium heat.
 5. When the top begins to bubble, flip the pancake and cook until golden.
 
-***
+---
 [^1]: https://thevietvegan.com/vegan-creamy-garlic-dip-pizza/
