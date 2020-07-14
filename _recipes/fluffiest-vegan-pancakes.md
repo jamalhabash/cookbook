@@ -92,4 +92,4 @@ image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/f
 5. When the top begins to bubble, flip the pancake and cook until golden.
 
 ---
-[^1]: https://thevietvegan.com/vegan-creamy-garlic-dip-pizza/
+[^1]: https://tasty.co/recipe/the-fluffiest-vegan-pancakes
