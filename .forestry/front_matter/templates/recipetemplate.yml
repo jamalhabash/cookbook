@@ -131,4 +131,5 @@ fields:
   description: 'Used for Google SEO and Recipe apps '
 pages:
 - _recipes/fluffiest-vegan-pancakes.md
+- _recipes/tofu-crumble.md
 - _recipes/vegan-garlic-dip.md
