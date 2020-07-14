@@ -12,7 +12,7 @@ schemadotorg:
   name: Vegan Garlic Dip
   description: An amazing vegan creamy garlic dip. Just like Pizza Pizza.
   image:
-  - "/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg"
+  - "https://media.githubusercontent.com/media/jhabash/cookbook/master/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg"
   recipeYield: []
   prepTime: PT5M
   totalTime: PT5M
@@ -57,7 +57,7 @@ tags:
 - Vegan
 - Pizza
 description: An amazing vegan creamy garlic dip. Just like Pizza Pizza.
-image: "/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg"
+image: "https://media.githubusercontent.com/media/jhabash/cookbook/master/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg"
 
 ---
 # Vegan Garlic Dip[^1]
