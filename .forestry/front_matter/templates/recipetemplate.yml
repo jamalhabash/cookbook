@@ -22,6 +22,7 @@ fields:
 - type: text
   name: description
   label: description
+  description: Same as other description
 - type: file
   name: image
   label: image
@@ -33,7 +34,7 @@ fields:
   - type: text
     name: "@context"
     label: "@context"
-    default: http://schema.org./
+    default: http://schema.org/
   - type: text
     name: "@type"
     label: "@type"
@@ -116,3 +117,4 @@ fields:
   - type: text
     name: "@id"
     label: "@id"
+    description: Link to this webpage.
