@@ -7,3 +7,4 @@ collections:
 
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
