@@ -13,21 +13,24 @@ fields:
 - type: text
   name: title
   label: title
+  description: The name of the recipe
 - type: text
   name: author
   label: author
   default: Jamal Habash
+  description: Your Name
 - type: list
   name: tags
   label: tags
 - type: text
   name: description
   label: description
-  description: Same as other description
+  description: Same as schemadotorg description
 - type: file
   name: image
   label: image
-  description: Should be the same as the image for Schemadotorg
+  description: Should be the same as the image for Schemadotorg. This image will be
+    used for the preview.
 - type: field_group
   name: schemadotorg
   label: schemadotorg
@@ -36,14 +39,16 @@ fields:
     name: "@context"
     label: "@context"
     default: http://schema.org/
+    description: Must be <a href="http://schema.org/" title="http://schema.org/" target="_blank">http://schema.org/</a>
   - type: text
     name: "@type"
     label: "@type"
     default: Recipe
+    description: Must be Recipe.
   - type: text
     name: name
     label: name
-    description: title of recipe
+    description: Title of recipe
   - type: field_group
     name: author
     label: author
@@ -52,6 +57,7 @@ fields:
       name: "@type"
       label: "@type"
       default: Person
+      description: Must be Person
     - type: text
       name: name
       label: name
@@ -70,9 +76,11 @@ fields:
   - type: list
     name: recipeYield
     label: recipeYield
+    description: 16, 16 (1-Tbsp servings), 4 Servings etc.
   - type: text
     name: prepTime
     label: prepTime
+    description: I.e. PT5M, PT5M30S
   - type: text
     name: totalTime
     label: totalTime
@@ -120,6 +128,7 @@ fields:
     name: "@id"
     label: "@id"
     description: Link to this webpage.
+  description: 'Used for Google SEO and Recipe apps '
 pages:
 - _recipes/fluffiest-vegan-pancakes.md
 - _recipes/vegan-garlic-dip.md
