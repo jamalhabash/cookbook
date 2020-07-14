@@ -121,4 +121,5 @@ fields:
     label: "@id"
     description: Link to this webpage.
 pages:
+- _recipes/fluffiest-vegan-pancakes.md
 - _recipes/vegan-garlic-dip.md
