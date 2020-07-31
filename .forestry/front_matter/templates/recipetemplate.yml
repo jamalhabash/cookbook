@@ -130,6 +130,7 @@ fields:
     description: Link to this webpage.
   description: 'Used for Google SEO and Recipe apps '
 pages:
+- _recipes/falafel.md
 - _recipes/fluffiest-vegan-pancakes.md
 - _recipes/spaghetti-sauce.md
 - _recipes/tofu-crumble.md
