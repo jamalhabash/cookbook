@@ -75,7 +75,7 @@ description: An amazing addition to any meal. Perfect for Spicy Pizza or Pasta S
 image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/tofu-bolognese-9.jpg
 
 ---
-# Tofu Crumble[^1]
+# Tofu Crumble[^1](https://itdoesnttastelikechicken.com/tofu-bolognese/)
 
 ![headerImage](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/tofu-bolognese-9.jpg)
 
@@ -94,5 +94,4 @@ image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/t
 2. Mix the nutritional yeast, soy sauce, olive oil chilli powder, garlic powder, and liquid smoke together in a large bowl. It will make a brown paste-like texture.
 3. Crumble the block of tofu with your fingers into the bowl along with the seasoning. Mix the tofu crumbles with the seasoning making sure all of the tofu is evenly coated. Spread the tofu crumbles evenly over the pan. Bake for 35 to 45 minutes, stopping to stir the tofu every now and then. Keep a close eye on it towards the end so that it doesn't burn. You want the tofu to be nice and browned. The smaller crumbles will be darker than the larger crumbles, and that's ok because it will provide a variety of texture.
 
----
-[^1]: https://itdoesnttastelikechicken.com/tofu-bolognese/
+***
