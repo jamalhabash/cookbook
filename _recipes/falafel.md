@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2020-07-31 13:46:42 +0000
+date: 2020-07-31T13:46:42.000+00:00
 author: Jamal Habash
 schemadotorg:
   "@context": http://schema.org/
@@ -8,7 +8,7 @@ schemadotorg:
   author:
     "@type": Person
     name: Jamal Habash
-  datePublished: 2020-07-31 13:46:42 +0000
+  datePublished: 2020-07-31T13:46:42.000+00:00
   name: Falafel
   description: 'This dish is amazing in sandwich with tahini sauce or hummus. '
   image:
@@ -86,7 +86,6 @@ tags:
 - Chickpeas
 description: 'This dish is amazing in sandwich with tahini sauce or hummus. '
 image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/falafel-recipe-1.jpg
-published: false
 
 ---
 # Falafel
@@ -126,4 +125,4 @@ published: false
 6. Add all of the ingredients together into a large bowl. 
 7. Add the cumin, salt and our spices and mix.
 8. You can store the mixture like this for future use or scoop small balls out to fry. 
-9. Before frying, add the baking soda, baking powder and cornstarch. 
+9. Before frying, add the baking soda, baking powder and cornstarch.
