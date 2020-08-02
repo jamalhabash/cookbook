@@ -15,8 +15,8 @@ schemadotorg:
   - https://media.githubusercontent.com/media/jhabash/cookbook/master/media/falafel-recipe-1.jpg
   recipeYield:
   - 20 Falafel
-  prepTime: 60M
-  totalTime: 90M
+  prepTime: 20M
+  totalTime: 20M
   recipeIngredient:
   - 1 Kilo of Dried Chickpeas
   - 2 pounds of Halved Fava Beans
