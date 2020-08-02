@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2020-07-31 13:30:08 +0000
+date: 2020-07-31T13:30:08.000+00:00
 author: Jamal Habash
 schemadotorg:
   "@context": http://schema.org/
@@ -8,7 +8,7 @@ schemadotorg:
   author:
     "@type": Person
     name: Jamal Habash
-  datePublished: 2020-07-31 13:30:08 +0000
+  datePublished: 2020-07-31T13:30:08.000+00:00
   name: Zatar
   description: 'Zatar is the perfect topping for dough. '
   image:
@@ -66,7 +66,6 @@ tags:
 - Bread
 description: 'Zatar is the perfect topping for dough. '
 image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/zatar-pie-manakeesh.jpg
-published: false
 
 ---
 # Zatar
@@ -93,4 +92,4 @@ published: false
 
    ![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-38-56-am.png)
 4. Take a spoonful of the mixture and spread over the dough.
-5. Bake at 350. I usually take them out of the oven while they are still soft, but if you like your bread crispier you can leave them in for longer. 
+5. Bake at 350. I usually take them out of the oven while they are still soft, but if you like your bread crispier you can leave them in for longer.
