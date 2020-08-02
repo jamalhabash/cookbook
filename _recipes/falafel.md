@@ -40,8 +40,8 @@ schemadotorg:
     text: 'Wash the halved fava beans and allow them to soak in water overnight. '
     name: 'Wash the halved fava beans and allow them to soak in water overnight. '
   - "@type": HowToStep
-    text: Chop the onions and garlic in a good process.
-    name: Chop the onions and garlic in a good process.
+    text: Chop the onions and garlic in a food processor.
+    name: Chop the onions and garlic in a food processor.
   - "@type": HowToStep
     text: Chop the chickpeas, coriander and parsley in a food processor.
     name: Chop the chickpeas, coriander and parsley in a food processor.
@@ -111,18 +111,18 @@ image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/f
 
 ![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-54-24-am.png)
 
-1. Wash the dried chickpeas and allow them to soak in water overnight. 
-2. Wash the halved fava beans and allow them to soak in water overnight. 
+1. Wash the dried chickpeas and allow them to soak in water overnight.
+2. Wash the halved fava beans and allow them to soak in water overnight.
 
    ![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-57-09-am.png)
-3. Chop the onions and garlic in a good process.
+3. Chop the onions and garlic in a food processor.
 
    ![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/screen-shot-2020-07-31-at-10-00-51-am.png)
 4. Chop the chickpeas, coriander and parsley in a food processor.
 
    ![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/screen-shot-2020-07-31-at-10-01-44-am.png)
-5. Chop the fava beans in a food processor. 
-6. Add all of the ingredients together into a large bowl. 
+5. Chop the fava beans in a food processor.
+6. Add all of the ingredients together into a large bowl.
 7. Add the cumin, salt and our spices and mix.
-8. You can store the mixture like this for future use or scoop small balls out to fry. 
+8. You can store the mixture like this for future use or scoop small balls out to fry.
 9. Before frying, add the baking soda, baking powder and cornstarch.
