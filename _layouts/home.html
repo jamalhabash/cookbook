@@ -38,7 +38,8 @@
 
       <H1>Index</H1>
       <ul>
-        {% for recipe in site.recipes %}
+        {% assign sorted_recipes = site.recipes | sort:'title' %}
+        {% for recipe in sorted_recipes %}
           <li>  <a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a> </li>
         {% endfor %}
       </ul>
