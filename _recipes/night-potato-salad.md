@@ -72,7 +72,6 @@ tags:
 description: Passed down through the generations, this is the freshest potato salad
   you'll ever try.
 image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/potatosalad.jpg
-published: false
 
 ---
 # Night Potato Salad
