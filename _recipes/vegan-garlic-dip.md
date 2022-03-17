@@ -62,7 +62,7 @@ image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/v
 ---
 # Vegan Garlic Dip[^1]
 
-![headerImage](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg)
+![headerImage](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/vegan-creamy-garlic-dip-for-pizza-0138-1.jpg)
 
 ## Ingredients
 
