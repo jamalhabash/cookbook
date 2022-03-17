@@ -87,5 +87,4 @@ image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/s
    ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-24-03-am.png)
 5. Once the sauce is boiling, add in the dehydrated vegetable mix from bulk barn.
 
-   ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-24-19-am.png)
 6. Your sauce is now ready to store in the fridge or eat nice and hot!
