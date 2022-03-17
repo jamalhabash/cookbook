@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2020-07-14 20:08:54 +0000
+date: 2020-07-14T20:08:54.000+00:00
 author: Razanne Habash
 schemadotorg:
   "@context": http://schema.org/
@@ -8,7 +8,7 @@ schemadotorg:
   author:
     "@type": Person
     name: Jamal Habash
-  datePublished: 2020-07-14 20:08:54 +0000
+  datePublished: 2020-07-14T20:08:54.000+00:00
   name: Tofu Crumble
   description: An amazing addition to any meal. Perfect for Spicy Pizza or Pasta Sauce!
   image:
@@ -77,7 +77,7 @@ image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/t
 ---
 # Tofu Crumble[^1]
 
-![headerImage](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/tofu-bolognese-9.jpg)
+![headerImage](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/tofu-bolognese-9.jpg)
 
 ## Ingredients
 
