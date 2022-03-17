@@ -92,12 +92,12 @@ image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/p
 
 1. Peel and boil potatoes the night before. Put them in the fridge. Never cut them while they’re hot. Room temperature is ok. Cold is better
 
-   ![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/boiledpotato.jpg)
+   ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/boiledpotato.jpg)
 2. Cut The Potatoes into 8th or 6th
 
-   ![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/cutpotato.jpg)
+   ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/cutpotato.jpg)
 3. Add finely chopped onion and dried mint to the bowl of potatoes. Note: any onion will do. You can use green onions if you want.
 
-   ![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/img_05733.jpg)
+   ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/img_05733.jpg)
 4. Blend garlic, salt, lemon juice and olive oil. This will be the dressing.
 5. Add dressing to bowl and mix. Add extra salt or lemon juice to taste.
