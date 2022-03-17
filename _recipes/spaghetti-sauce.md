@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2020-07-31 12:59:00 +0000
+date: 2020-07-31T12:59:00.000+00:00
 author: Jamal Habash
 schemadotorg:
   "@context": http://schema.org/
@@ -8,7 +8,7 @@ schemadotorg:
   author:
     "@type": Person
     name: Jamal Habash
-  datePublished: 2020-07-31 12:59:00 +0000
+  datePublished: 2020-07-31T12:59:00.000+00:00
   name: Spaghetti Sauce
   description: The flavourful dish works well by itself or as a sauce for any type
     of pasta.
@@ -56,7 +56,7 @@ published: false
 ---
 # Spaghetti Sauce[^1](https://itdoesnttastelikechicken.com/tofu-bolognese/)
 
-![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-03-10-am.png)
+![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-03-10-am.png)
 
 ## Ingredients
 
@@ -75,19 +75,19 @@ published: false
 
 ## Directions
 
-![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-23-01-am.png)
+![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-23-01-am.png)
 
 1. Put all Ingredients into a large pot in order of: Onions, Garlic, Celery, Mushrooms, Peppers, Carrots, Tomatoes.
 2. Add water to the mixture as required to thin the sauce out. I usually add around 4 cups of water.
 
-   ![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-22-33-am.png)
+   ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-22-33-am.png)
 3. Add in the salt and spices to taste. I usually put in two spoonfuls of salt, a spoonful of pepper spice and a dash of hot spice.
 
-   ![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-23-48-am.png)
+   ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-23-48-am.png)
 4. Put the lid on the pot and bring the sauce to a boil. Make sure the stove is on the highest heat.
 
-   ![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-24-03-am.png)
+   ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-24-03-am.png)
 5. Once the sauce is boiling, add in the dehydrated vegetable mix from bulk barn.
 
-   ![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-24-19-am.png)
+   ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-24-19-am.png)
 6. Your sauce is now ready to store in the fridge or eat nice and hot!
