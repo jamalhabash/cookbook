@@ -83,7 +83,6 @@ published: false
    ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-22-33-am.png)
 3. Add in the salt and spices to taste. I usually put in two spoonfuls of salt, a spoonful of pepper spice and a dash of hot spice.
 
-   ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-23-48-am.png)
 4. Put the lid on the pot and bring the sauce to a boil. Make sure the stove is on the highest heat.
 
    ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-24-03-am.png)
