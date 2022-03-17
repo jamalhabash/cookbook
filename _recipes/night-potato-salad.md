@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2021-04-10 23:20:08 +0000
+date: 2021-04-10T23:20:08.000+00:00
 author: Jamal Habash
 schemadotorg:
   "@context": http://schema.org/
@@ -8,7 +8,7 @@ schemadotorg:
   author:
     "@type": Person
     name: Jamal Habash
-  datePublished: 2021-04-10 23:20:08 +0000
+  datePublished: 2021-04-10T23:20:08.000+00:00
   name: Night Potato Salad
   description: Passed down through the generations, this is the freshest potato salad
     you'll ever try.
@@ -76,7 +76,7 @@ image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/p
 ---
 # Night Potato Salad
 
-![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/potatosalad.jpg)
+![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/potatosalad.jpg)
 
 ## Ingredients
 
@@ -96,8 +96,8 @@ image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/p
 2. Cut The Potatoes into 8th or 6th
 
    ![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/cutpotato.jpg)
-3. Add finely chopped onion and dried mint to the bowl of potatoes. Note: any onion will do. You can use green onions if you want. 
+3. Add finely chopped onion and dried mint to the bowl of potatoes. Note: any onion will do. You can use green onions if you want.
 
    ![](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/img_05733.jpg)
-4. Blend garlic, salt, lemon juice and olive oil. This will be the dressing. 
+4. Blend garlic, salt, lemon juice and olive oil. This will be the dressing.
 5. Add dressing to bowl and mix. Add extra salt or lemon juice to taste.
