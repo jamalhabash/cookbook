@@ -5,7 +5,7 @@ date: 2023-10-10
 title: "Magic Beans (JF)"
 author: Jamal Habash
 tags: [vegan, easy]
-description: "These creamy Red Kidney Beans are a delight. Quick, easy, and perfect for busy days."
+description: "These beans are a delight. Quick, easy, and perfect for busy days."
 image: ""
 
 schemadotorg:
@@ -15,7 +15,7 @@ schemadotorg:
   author:
     "@type": Person
     name: Jamal Habash
-  description: "These creamy Red Kidney Beans are a delight. Quick, easy, and perfect for busy days."
+  description: "These beans are a delight. Quick, easy, and perfect for busy days."
   datePublished: "2023-10-10T12:00:00+00:00"
   image: [""]
   recipeYield: ["1"]
