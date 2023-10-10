@@ -5,6 +5,8 @@ collections:
     output: true
     permalink: /:name
 
+imageurl: https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media
+
 plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
