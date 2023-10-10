@@ -91,7 +91,7 @@ image: https://media.githubusercontent.com/media/jamalhabash/cookbook/master/med
 ---
 # Falafel
 
-![]({% page.media_base_url /falafel/falafel-recipe-1.jpg %})
+![]({% media_base_url /falafel/falafel-recipe-1.jpg %})
 
 ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/falafel/falafel-recipe-1.jpg)
 
