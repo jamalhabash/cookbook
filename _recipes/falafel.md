@@ -91,7 +91,7 @@ image: https://media.githubusercontent.com/media/jamalhabash/cookbook/master/med
 ---
 # Falafel
 
-[Link to a document]({{ site.baseurl }}{% link _collection/name-of-document.md %})
+[Link to a document]({{ site.baseurl }}{% link _recipes/tofu-crumble.md %})
 
 ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/falafel/falafel-recipe-1.jpg)
 
