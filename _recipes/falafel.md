@@ -85,7 +85,7 @@ title: Falafel
 tags:
 - Chickpeas
 description: 'This dish is amazing in sandwich with tahini sauce or hummus. '
-image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/falafel-recipe-1.jpg
+image: https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/falafel-recipe-1.jpg
 
 ---
 # Falafel
