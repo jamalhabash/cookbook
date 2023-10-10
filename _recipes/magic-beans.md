@@ -38,7 +38,7 @@ schemadotorg:
   aggregateRating:
     - "@type": AggregateRating
       ratingValue: 4.9
-      ratingCount: 5
+      ratingCount: 7
   recipeCategory: ["Cheesy", "Vegan", "High Fibre", "Easy"]
   recipeCuisine: ["Gluten-Free", "Vegan"]
   keywords: "Magic Beans"
