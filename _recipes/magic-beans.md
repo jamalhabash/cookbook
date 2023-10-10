@@ -2,7 +2,7 @@
 
 layout: default
 date: 2023-10-10
-title: Magic Beans
+title: Magic Beans (JF)
 author: Jamal Habash
 tags: [vegan, easy]
 description: "These creamy Red Kidney Beans are a delight. Quick, easy, and perfect for busy days."
