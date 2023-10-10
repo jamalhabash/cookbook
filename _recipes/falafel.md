@@ -89,11 +89,7 @@ image: https://media.githubusercontent.com/media/jamalhabash/cookbook/master/med
 
 ---
 # Falafel
-
-[Link to a document]({{ site.baseurl }}{% link _recipes/tofu-crumble.md %})
-
-![]({{ site.imageurl }}{% link media/falafel/falafel-recipe-1.jpg %})
-
+  
 ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/falafel/falafel-recipe-1.jpg)
 
 # Ingredients
