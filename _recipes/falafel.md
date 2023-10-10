@@ -109,18 +109,18 @@ image: https://media.githubusercontent.com/media/jamalhabash/cookbook/master/med
 
 ## Directions
 
-![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-54-24-am.png)
+![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/falafel/falafel-recipe-2.webp)
 
 1. Wash the dried chickpeas and allow them to soak in water overnight.
 2. Wash the halved fava beans and allow them to soak in water overnight.
 
-   ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-57-09-am.png)
+   ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/falafel/falafel-recipe-5.webp)
 3. Chop the onions and garlic in a food processor.
 
-   ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/screen-shot-2020-07-31-at-10-00-51-am.png)
+   ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/falafel/falafel-recipe-3.webp)
 4. Chop the chickpeas, coriander and parsley in a food processor.
 
-   ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/screen-shot-2020-07-31-at-10-01-44-am.png)
+   ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/falafel/falafel-recipe-4.webp)
 5. Chop the fava beans in a food processor.
 6. Add all of the ingredients together into a large bowl.
 7. Add the cumin, salt and our spices and mix.
