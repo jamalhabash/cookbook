@@ -1,4 +1,5 @@
 ---
+media_base_url: https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media
 layout: default
 date: 2020-07-31T13:46:42.000+00:00
 author: Jamal Habash
@@ -89,6 +90,8 @@ image: https://media.githubusercontent.com/media/jamalhabash/cookbook/master/med
 
 ---
 # Falafel
+
+![]({% page.media_base_url /falafel/falafel-recipe-1.jpg %})
 
 ![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/falafel/falafel-recipe-1.jpg)
 
