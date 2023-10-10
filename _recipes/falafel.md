@@ -12,7 +12,7 @@ schemadotorg:
   name: Falafel
   description: 'This dish is amazing in sandwich with tahini sauce or hummus. '
   image:
-  - https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/falafel-recipe-1.jpg
+  - https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/falafel/falafel-recipe-1.jpg
   recipeYield:
   - 20 Falafel
   prepTime: 20M
@@ -85,12 +85,12 @@ title: Falafel
 tags:
 - Chickpeas
 description: 'This dish is amazing in sandwich with tahini sauce or hummus. '
-image: https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/falafel-recipe-1.jpg
+image: https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/falafel/falafel-recipe-1.jpg
 
 ---
 # Falafel
 
-![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/falafel-recipe-1.jpg)
+![](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/falafel/falafel-recipe-1.jpg)
 
 # Ingredients
 
