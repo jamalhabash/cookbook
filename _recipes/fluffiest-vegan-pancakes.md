@@ -13,7 +13,7 @@ schemadotorg:
   description: The Fluffiest Vegan Pancakes. Use for pancakes, waffles, frying batter
     and more!
   image:
-  - https://media.githubusercontent.com/media/jhabash/cookbook/master/media/fluffiest-vegan-pancakes.jpg
+  - https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/fluffiest-vegan-pancakes.jpg
   recipeYield:
   - 4 Servings
   prepTime: PT15M
@@ -66,12 +66,12 @@ tags:
 - breakfast
 description: The Fluffiest Vegan Pancakes. Use for pancakes, waffles, frying batter
   and more!
-image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/fluffiest-vegan-pancakes.jpg
+image: https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/fluffiest-vegan-pancakes.jpg
 
 ---
 # Fluffiest Vegan Pancakes[^1]
 
-![headerImage](https://media.githubusercontent.com/media/jhabash/cookbook/master/media/fluffiest-vegan-pancakes.jpg)
+![headerImage](https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/fluffiest-vegan-pancakes.jpg)
 
 ## Ingredients
 

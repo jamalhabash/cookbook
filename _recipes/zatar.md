@@ -12,7 +12,7 @@ schemadotorg:
   name: Zatar
   description: 'Zatar is the perfect topping for dough. '
   image:
-  - https://media.githubusercontent.com/media/jhabash/cookbook/master/media/zatar-pie-manakeesh.jpg
+  - https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/zatar-pie-manakeesh.jpg
   recipeYield:
   - 6 Large Pieces
   prepTime: 10M
@@ -65,7 +65,7 @@ tags:
 - Pizza
 - Bread
 description: 'Zatar is the perfect topping for dough. '
-image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/zatar-pie-manakeesh.jpg
+image: https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/zatar-pie-manakeesh.jpg
 
 ---
 # Zatar

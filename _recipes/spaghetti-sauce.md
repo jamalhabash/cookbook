@@ -13,7 +13,7 @@ schemadotorg:
   description: The flavourful dish works well by itself or as a sauce for any type
     of pasta.
   image:
-  - https://media.githubusercontent.com/media/jhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-03-10-am.png
+  - https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-03-10-am.png
   recipeYield:
   - 12 servings (12 half cups of sauce)
   prepTime: PT60M
@@ -50,7 +50,7 @@ tags:
 - pasta
 description: The flavourful dish works well by itself or as a sauce for any type of
   pasta.
-image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-03-10-am.png
+image: https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/screen-shot-2020-07-31-at-9-03-10-am.png
 
 ---
 # Spaghetti Sauce

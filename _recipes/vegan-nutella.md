@@ -12,7 +12,7 @@ schemadotorg:
   name: Vegan Nutella
   description: Better than real Nutella!
   image:
-  - https://media.githubusercontent.com/media/jhabash/cookbook/master/media/vegan-nutella-minimalist-baker.jpg
+  - https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/vegan-nutella-minimalist-baker.jpg
   recipeYield: []
   prepTime: PT10M
   totalTime: PT10M
@@ -59,7 +59,7 @@ schemadotorg:
 title: 'Vegan Nutella '
 tags: []
 description: Better than real Nutella!
-image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/vegan-nutella-minimalist-baker.jpg
+image: https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/vegan-nutella-minimalist-baker.jpg
 
 ---
 # Vegan Nutella

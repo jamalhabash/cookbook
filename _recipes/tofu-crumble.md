@@ -12,7 +12,7 @@ schemadotorg:
   name: Tofu Crumble
   description: An amazing addition to any meal. Perfect for Spicy Pizza or Pasta Sauce!
   image:
-  - https://media.githubusercontent.com/media/jhabash/cookbook/master/media/tofu-bolognese-9.jpg
+  - https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/tofu-bolognese-9.jpg
   recipeYield:
   - 4 Servings
   prepTime: PT5M
@@ -72,7 +72,7 @@ tags:
 - Tofu
 - Vegan
 description: An amazing addition to any meal. Perfect for Spicy Pizza or Pasta Sauce!
-image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/tofu-bolognese-9.jpg
+image: https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/tofu-bolognese-9.jpg
 
 ---
 # Tofu Crumble[^1]

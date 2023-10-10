@@ -13,7 +13,7 @@ schemadotorg:
   description: Passed down through the generations, this is the freshest potato salad
     you'll ever try.
   image:
-  - https://media.githubusercontent.com/media/jhabash/cookbook/master/media/potatosalad.jpg
+  - https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/potatosalad.jpg
   recipeYield: []
   prepTime: PT25M
   totalTime: PT25M
@@ -71,7 +71,7 @@ tags:
 - bbq
 description: Passed down through the generations, this is the freshest potato salad
   you'll ever try.
-image: https://media.githubusercontent.com/media/jhabash/cookbook/master/media/potatosalad.jpg
+image: https://media.githubusercontent.com/media/jamalhabash/cookbook/master/media/potatosalad.jpg
 
 ---
 # Night Potato Salad
