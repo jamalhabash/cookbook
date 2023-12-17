@@ -21,7 +21,7 @@ schemadotorg:
   recipeYield: ["1"]
   prepTime: "PT5M"
   totalTime: "PT5M"
-  recipeIngredient: ["1 Tbsp Peanut Butter Powder", "1 Tbsp Teriyaki Sauce", "2 Tbsp Nutritional Yeast", "5 Tbsp Water", "2 Cup Spinach", "1 Can (540 ml) Red Kidney Beans"]
+  recipeIngredient: ["1 Tbsp Peanut Butter Powder", "1 Tbsp Teriyaki Sauce", "2 Tbsp Nutritional Yeast", "2 Tbsp Water", "2 Cup Spinach", "1 Can (540 ml) Red Kidney Beans"]
   recipeInstructions:
     - "@type": HowToStep
       text: "Mix peanut butter powder, teriyaki sauce, nutritional yeast and water into a bowl."
@@ -47,12 +47,14 @@ schemadotorg:
 ---
 # Magic Beans
 
+461 calories, 38g protein, 3g fat, 83g carbs, 28g fibre
+
 ## Ingredients
 
 - 1 Tbsp Peanut Butter Powder
 - 1 Tbsp Teriyaki Sauce
 - 2 Tbsp Nutritional Yeast
-- 5 Tbsp Water
+- 2 Tbsp Water
 - 2 Cup Spinach
 - 1 Can (540 ml) Red Kidney Beans
 
