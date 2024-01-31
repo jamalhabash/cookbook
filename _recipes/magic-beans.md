@@ -54,9 +54,9 @@ schemadotorg:
 - 1 Tbsp Peanut Butter Powder
 - 1 Tbsp Teriyaki Sauce
 - 2 Tbsp Nutritional Yeast
-- 2 Tbsp Water
-- 2 Cup Spinach
-- 1 Can (540 ml) Red Kidney Beans
+- 1-2 Tbsp Water
+- 2 Cup Spinach (optional)
+- 1 Can (540 ml) Red Kidney Beans (sub. mixed beans, black beans)
 
 ## Directions
 
