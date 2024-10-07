@@ -35,7 +35,7 @@ schemadotorg:
       "796 mL Diced Tomato",
       "680 mL Tomato Sauce",
       "2-3 Tbsp Arabic Magic Spice Mix",
-      "390g Gardein Plant-Based "Ground B'ef" - or equivalent",
+      '390g Gardein Plant-Based "Ground B''ef" - or equivalent',
     ]
   recipeInstructions:
     - "@type": HowToStep
