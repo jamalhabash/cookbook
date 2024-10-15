@@ -1,9 +1,8 @@
 {
   pkgs ? import <nixpkgs> { },
-  name,
+  title,
   version,
   date,
-  title,
   author,
   recipeYield,
   prepTime,
@@ -11,11 +10,12 @@
   description,
   ingredients,
   instructions,
+  nutrition ? "",
 }:
 
 pkgs.stdenv.mkDerivation {
   inherit version;
-  pname = name;
+  pname = title;
 
   recipefile = builtins.toFile "file" ''
     ---
@@ -25,7 +25,7 @@ pkgs.stdenv.mkDerivation {
     title: ${title}
     author: ${author} 
     tags: [vegan]
-    description: ${description}
+    description: '${description}'
     image: ""
 
     schemadotorg:
@@ -35,7 +35,7 @@ pkgs.stdenv.mkDerivation {
       author:
         "@type": Person
         name: ${author}
-      description: ${description} 
+      description: '${description}' 
       datePublished: "${date}T12:00:00+00:00"
       image: [""]
       recipeYield: ["${recipeYield}"]
@@ -43,9 +43,6 @@ pkgs.stdenv.mkDerivation {
       totalTime: "${totalTime}"
       recipeIngredient: [ "${(pkgs.lib.concatStringsSep "\", \"" ingredients)}" ]
       recipeInstructions:
-        - "@type": HowToStep
-          text: "First instruction."
-          name: "First instruction."
         ${
           pkgs.lib.concatStringsSep "\n    " (
             builtins.map (x: "- \"@type\": HowToStep\n      text: \"${x}\"\n      name: \"${x}\"") instructions
@@ -59,17 +56,16 @@ pkgs.stdenv.mkDerivation {
       recipeCuisine: ["Vegan"]
       keywords: "${title}"
       "@id": "https://jamalhabash.ca/${
-        (pkgs.lib.strings.toLower (pkgs.lib.strings.stringAsChars (x: if x == " " then "-" else x) name))
+        (pkgs.lib.strings.toLower (pkgs.lib.strings.stringAsChars (x: if x == " " then "-" else x) title))
       }"
 
     ---
     # ${title} 
-
+    ${(if nutrition == "" then nutrition else "\n${nutrition}\n")}
     ## Ingredients
 
     - ${(pkgs.lib.concatStringsSep "\n- " ingredients)}
 
-    [ "${(pkgs.lib.concatStringsSep "\", \"" ingredients)}" ]
     ## Directions
 
     ${
@@ -82,7 +78,7 @@ pkgs.stdenv.mkDerivation {
   installPhase = ''
     mkdir -p $out  
     cp $recipefile $out/${
-      (pkgs.lib.strings.toLower (pkgs.lib.strings.stringAsChars (x: if x == " " then "-" else x) name))
+      (pkgs.lib.strings.toLower (pkgs.lib.strings.stringAsChars (x: if x == " " then "-" else x) title))
     }.md
   '';
 

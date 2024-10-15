@@ -3,7 +3,7 @@
   version = "0.1";  
   
   recipes = [
-    (pkgs.callPackage ./test.nix {})
+    (pkgs.callPackage ./arabic-magic-spice-mix.nix {})
   ];
 
   installPhase = ''  
